@@ -2,10 +2,10 @@
 The project was created for Smart India Hackathon 2022 by our team under the problem statement 'RK-759'
 
 <h2>Contributors:</h2>
-Ayushi Khandelwal<br>
 Abhimanyu Gabhrani<br>
 Chirag Mathur<br>
 Anand Singh Gahlout<br>
+Ayushi Khandelwal<br>
 Ayushi Joshi<br>
 
 <h2> Purpose of the Project </h2>
